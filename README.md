@@ -6,6 +6,7 @@
 - [CV](#cv)
 - [LinkedIn](#linkedin)
 - [GitHub Usage](#github-usage)
+- [VR Developer Roadmap](#vr-developer-roadmap)
 - [Blogposts](#blogposts)
 - [Personal Development](#personal-development)
 - [Networking](#networking)
@@ -57,6 +58,10 @@ __Learn Latex and Upload your resume template to Github repository called my_res
 __List of Repositories__
 - Learning_C# Repository
 - Algorithms with C# 
+
+## VR Developer Roadmap
+
+__Add here the sources you find about VR developer__
 
 
 
