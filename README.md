@@ -54,6 +54,10 @@ __Learn Latex and Upload your resume template to Github repository called my_res
 
 ## GitHub Usage
 
+__List of Repositories__
+- Learning_C# Repository
+- Algorithms with C# 
+
 
 
 ## Blogposts
