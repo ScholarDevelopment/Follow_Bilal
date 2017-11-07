@@ -3,9 +3,15 @@
 ## Contents
 
 - [Personal Summary](#personal-summary)
-- [CV Development](#cv-development)
+- [CV](#cv)
 - [LinkedIn](#linkedin)
 - [GitHub Usage](#github-usage)
+- [Blogposts](#blogposts)
+- [Personal Development](#personal-development)
+- [Networking](#networking)
+- [Online Course](#online-course)
+- [Textbook](#textbook)
+- [Project](#projects)
 
 
 ## Personal Summary
@@ -46,8 +52,35 @@
 
 ## GitHub Usage
 
-> Add here the hierarchy of your GitHub Repositories.
 
 
+## Blogposts
 
->> Will continue adding sections and content
+> Update Here:
+
+__Published:__
+- [Name](#link)
+-
+
+__Upcoming:__
+- Name
+-
+## Personal Development
+
+> Add postcast here.
+
+
+## Networking
+
+Goal: Meet 2 new people in relevant area.
+
+## Online Course
+
+
+## Textbook
+
+> TBD
+
+## Projects
+
+
