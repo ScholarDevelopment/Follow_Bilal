@@ -26,6 +26,8 @@
 
 ## CV Development
 
+__Learn Latex and Upload your resume template to Github repository called my_resume__
+
 > Your CV is one of the most important key elements to prepare you for after-school. 
 
 > Prepare your CV, Updatable format (docx, latex, template), PDF of current version
