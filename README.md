@@ -58,6 +58,8 @@ __Learn Latex and Upload your resume template to Github repository called my_res
 
 ## Blogposts
 
+__Add Blog link here__
+
 > Update Here:
 
 __Published:__
